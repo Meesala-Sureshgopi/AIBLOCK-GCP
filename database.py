@@ -61,7 +61,7 @@ def get_data():
 
 #SERVERLESS
 #  To enable serverless Computing we deployed the database code logic to GCP(Google Cloud Platform)
-# Below is the sample code code for the serverless computing
+# Below is the sample code for the serverless computing
 
 
 # from urllib.parse import urlencode
