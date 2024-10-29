@@ -1,0 +1,26 @@
+BLOCK-0
+Previous hash:
+  
+Current hash:
+  671f4ce25cf610514b9c0d9ec50733fe5c0decd1fb24d70065a461d8a0b00c04
+Genisis block
+
+BLOCK-1
+Previous hash:
+  671f4ce25cf610514b9c0d9ec50733fe5c0decd1fb24d70065a461d8a0b00c04
+Current hash:
+  7f25f982da9f582d4128c5499ae0dbe9b00cc210614ac9a40b06570cdbdebc92
++---------------------------------------------------------------------------------------------+
+| Bre… | Fev… | Dry  | Sore | Hea… | Fat… | Gas… | Abro… | Con… | Atte… | Vis… | time… | has  |
+| Pro… |      | Cou… | thr… |      |      |      | trav… | with | Large | Pub… |       | Cov… |
+|      |      |      |      |      |      |      |       | COV… | Gath… | Exp… |       |      |
+|      |      |      |      |      |      |      |       | Pat… |       | Pla… |       |      |
+| no   | no   | no   | no   | no   | no   | no   | no    | no   | yes   | yes  | 08:1… | Pat… |
+|      |      |      |      |      |      |      |       |      |       |      | PM    | has  |
+|      |      |      |      |      |      |      |       |      |       |      | 28/1… | no   |
+|      |      |      |      |      |      |      |       |      |       |      |       | Cov… |
+| yes  | no   | yes  | no   | yes  | no   | yes  | no    | yes  | no    | yes  | 08:1… | Pat… |
+|      |      |      |      |      |      |      |       |      |       |      | PM    | has  |
+|      |      |      |      |      |      |      |       |      |       |      | 28/1… | COV… |
++---------------------------------------------------------------------------------------------+
+
